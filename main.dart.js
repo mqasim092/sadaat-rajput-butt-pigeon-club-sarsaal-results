@@ -66661,7 +66661,7 @@ A.cw("Error parsing tournament "+p+": "+A.o(s))
 return new A.dJ(B.b.gad(r),"Unknown Tournament",A.c([],t.gQ),1)}},
 $S:449}
 A.a3w.prototype={
-$2(a,b){return B.h.aR(a.b,b.b)},
+$2(a,b){return B.h.aR(b.b,a.b)},
 $S:450}
 A.CG.prototype={
 UE(a){var s,r,q=this.c
